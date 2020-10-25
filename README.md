@@ -9,3 +9,4 @@
 
 
 OLAP: https://spip.teluq.ca/inf9004/IMG/pdf_semaine9-2.pdf
+window functions : https://www.youtube.com/playlist?list=PLgR-BOYibnN0QqIPFbMlS01bw8x9g07Ll
