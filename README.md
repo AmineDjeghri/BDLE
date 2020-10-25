@@ -8,5 +8,10 @@
 - http://www-bd.lip6.fr/wiki/site/enseignement/master/bdle/tmes/databricks
 
 
-OLAP: https://spip.teluq.ca/inf9004/IMG/pdf_semaine9-2.pdf
-window functions : https://www.youtube.com/playlist?list=PLgR-BOYibnN0QqIPFbMlS01bw8x9g07Ll
+### OLAP:
+ - https://spip.teluq.ca/inf9004/IMG/pdf_semaine9-2.pdf
+ - https://www.esen.tn/portail/medias/documents/enseignement/1572059026192.pdf
+
+
+### window functions :
+- https://www.youtube.com/playlist?list=PLgR-BOYibnN0QqIPFbMlS01bw8x9g07Ll
