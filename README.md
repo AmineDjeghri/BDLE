@@ -3,9 +3,8 @@
 - http://www-bd.lip6.fr/wiki/site/enseignement/master/bdle/start
 - http://dac.lip6.fr/master/enseignement/bdle/
 
-## Utilisation de Spark sous Databricks
-- login : https://community.cloud.databricks.com/login.html
+
+## login : https://community.cloud.databricks.com/login.html
+## Tutoriel: Utilisation de Spark sous Databricks
 - http://www-bd.lip6.fr/wiki/site/enseignement/master/bdle/tmes/databricks
-
-
-OLAP: https://spip.teluq.ca/inf9004/IMG/pdf_semaine9-2.pdf
+- https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427
